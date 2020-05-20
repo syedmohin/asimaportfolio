@@ -1,0 +1,13 @@
+package com.sunday;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AsimaProfolioApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(AsimaProfolioApplication.class, args);
+	}
+
+}
